@@ -62,7 +62,9 @@ Some potential improvements for future versions of the application include:
 ## Conclusion
 In conclusion, our To-Do List web application offers a simple and efficient solution for task management. Whether you're organizing your daily chores or planning long-term projects, this application has you covered. With its intuitive interface and robust features, staying organized has never been easier!
 
+![Screenshot (1)](https://github.com/Sravyareddy04/TO_DO_LIST_COD6087/assets/162128264/3984e3f9-f3dc-42da-b185-2853529eb5be)
 
+![Screenshot (2)](https://github.com/Sravyareddy04/TO_DO_LIST_COD6087/assets/162128264/db5fd212-82c5-4558-b627-eb8cd9c59ad0)
 
 
 
